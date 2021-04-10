@@ -1,0 +1,20 @@
+
+< html > 
+  < head > 
+    < meta  charset = “ utf-8” > 
+    < meta  http-equiv = “ X-UA-Compatible”  content = “ IE = edge” > 
+    < meta  name = “ viewport” 内容= “ width = device-width，initial-scale = 1” > 
+    <！-加载
+    MUI- > < link  href = “ //cdn.muicss.com/mui-0.10.3/css/mui.min.css “  rel = ”样式表“ type = “ text / css”  /> 
+    <脚本 src = “ //cdn.muicss.com/mui-0.10.3/js/mui.min.js” > </脚本> 
+  </ head > 
+  <正文> 
+    <！-示例内容-> 
+    < div 类= “ mui容器” > 
+      < div 类= “ mui-panel” > 
+        < h1 >我的标题</ h1 > 
+        <按钮 类= “ mui-btn mui-btn--primary mui-btn--raised” >我的按钮</按钮> 
+      </ div > 
+    </div > 
+  </ body > 
+</ html 
